@@ -101,7 +101,7 @@ Versuchen Sie die Fenster-Anordnung entsprechend Abbildung 1 nachzubilden.
 ### Übung 2
 Versuchen Sie die Fenster-Anordnung entsprechend Abbildung 2 nachzubilden. 
 
-##	Die Anleitung für die Lösung der Aufgaben finden Sie [hier](docs/Ex1_Sol.md) . 
+##	Die Anleitung für die Lösung der Aufgaben finden Sie [hier](docs/Ex1_sol.md). 
 
 
 
