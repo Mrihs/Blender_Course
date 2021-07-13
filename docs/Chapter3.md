@@ -20,71 +20,49 @@ Gerade der 3D Viewport, der Outliner und die Properties sind für das Erstellen 
 ## Übersicht über die Editor-Fenster von Blender
 In jedem Editor-Areal befindet sich in der linken oberen Ecke ein Knopf, mit dem ein Drop-Down—Menu geöffnet werden kann. Darin sind alle möglichen Editoren aufgelistet. Dadurch kann ein anderer Editor für ein Areal ausgewählt werden. 
 
-### 3D Viewport
-Der 3D Viewport stellt die Szenen und jeweiligen 3D-Objekte dar. Er bietet die Möglichkeit zur direkten Interaktion mit diesen Objekten und ist etwa für das Modellieren von Objekten essentiell. 
+**_3D Viewport._** Der 3D Viewport stellt die Szenen und jeweiligen 3D-Objekte dar. Er bietet die Möglichkeit zur direkten Interaktion mit diesen Objekten und ist etwa für das Modellieren von Objekten essentiell. 
 
-### Image Editor
-Anhand des Image Editors können 2D-Grafiken betrachtet und bearbeitet werden. Gerenderte Bilder werden in diesem Editor angezeigt. 
+**_Image Editor._** Anhand des Image Editors können 2D-Grafiken betrachtet und bearbeitet werden. Gerenderte Bilder werden in diesem Editor angezeigt. 
 
-### UV Editor
-Der UV Editor wird benötigt, um den Flächen von Objekten eine bestimmte Position auf einer Textur (sogenannten UV’s)  zuzuweisen oder dessen Zuweisung zu betrachten.
+**_UV Editor._** Der UV Editor wird benötigt, um den Flächen von Objekten eine bestimmte Position auf einer Textur (sogenannten UV’s)  zuzuweisen oder dessen Zuweisung zu betrachten.
 
-### Compositor
-Anhand des Compositors lassen sich Bilder, welche beim Rendern erstellt werden, nachträglichen Bearbeitungen unterziehen, bevor sie dargestellt werden. Auch externe Bilder können hier bearbeitet werden. Die Bearbeitung erfolgt hier mittels einer visuellen Programmiersprache. 
+**_Compositor._** Anhand des Compositors lassen sich Bilder, welche beim Rendern erstellt werden, nachträglichen Bearbeitungen unterziehen, bevor sie dargestellt werden. Auch externe Bilder können hier bearbeitet werden. Die Bearbeitung erfolgt hier mittels einer visuellen Programmiersprache. 
 
-### Texture Node Editor
-Mithilfe des Texture Node Editors können Texturen anhand einer visuellen Programmiersprache erstellt werden. Dieser Editor wird allerdings in Zukunft durch andere Bearbeitungsoptionen ersetzt. 
+**_Texture Node Editor._** Mithilfe des Texture Node Editors können Texturen anhand einer visuellen Programmiersprache erstellt werden. Dieser Editor wird allerdings in Zukunft durch andere Bearbeitungsoptionen ersetzt. 
 
-### Geometry Node Editor
-Der Geometry Node Editor ermöglicht das Bearbeiten von Objekten mittels einer visuellen Programmiersprache. Dabei handelt es sich um eine neue Funktion von Blender. 
+**_Geometry Node Editor._** Der Geometry Node Editor ermöglicht das Bearbeiten von Objekten mittels einer visuellen Programmiersprache. Dabei handelt es sich um eine neue Funktion von Blender. 
 
-### Shader Editor
-Mithilfe des Shader-Editors können Materialien, welche einem Objekt zugewiesen werden, bearbeitet werden. Dadurch lässt sich bearbeiten, wie die Oberfläche eines Objektes aussieht. Die Bearbeitung erfolgt hier mittels einer visuellen Programmiersprache.
+**_Shader Editor._** Mithilfe des Shader-Editors können Materialien, welche einem Objekt zugewiesen werden, bearbeitet werden. Dadurch lässt sich bearbeiten, wie die Oberfläche eines Objektes aussieht. Die Bearbeitung erfolgt hier mittels einer visuellen Programmiersprache.
 
-### Video Sequencer
-Mithilfe des Video Sequencer können Videoaufnahmen bearbeitet werden. Dieser Editor verfügt zusätzlich noch über eine Vorschau-Option, mit der sich die Videos direkt betrachten lassen. 
+**_Video Sequencer._** Mithilfe des Video Sequencer können Videoaufnahmen bearbeitet werden. Dieser Editor verfügt zusätzlich noch über eine Vorschau-Option, mit der sich die Videos direkt betrachten lassen. 
 
-### Movie Clip Editor
-Der Movie Clip Editor ermöglicht das Tracken von Bewegungen in Filmen, so dass diese Objekte beispielsweise auch auf 3D-Objekte angewendet werden können. Zudem lassen sich hier auch Videos maskieren. 
+**_Movie Clip Editor._** Der Movie Clip Editor ermöglicht das Tracken von Bewegungen in Filmen, so dass diese Objekte beispielsweise auch auf 3D-Objekte angewendet werden können. Zudem lassen sich hier auch Videos maskieren. 
 
-### Dope Sheet
-Das Dope Sheet stellt einzelne Animationspunkte eines Projektes in einem zeitlichen Ablauf tabellarisch dar. Dies basiert auf der früher angewendeten Planung von handgezeichneten Animationen. 
+**_Dope Sheet._** Das Dope Sheet stellt einzelne Animationspunkte eines Projektes in einem zeitlichen Ablauf tabellarisch dar. Dies basiert auf der früher angewendeten Planung von handgezeichneten Animationen. 
 
-### Timeline
-Die Timeline stellt einen zeitlichen Verlauf von Animationen dar. Für ausgewählte Objekte wird hier mittels Punkten dargestellt, wenn eine Animation erfolgt oder enden soll. Zudem findet sich hier auch ein Menu um Animationen abspielen zu lassen. 
+**_Timeline._** Die Timeline stellt einen zeitlichen Verlauf von Animationen dar. Für ausgewählte Objekte wird hier mittels Punkten dargestellt, wenn eine Animation erfolgt oder enden soll. Zudem findet sich hier auch ein Menu um Animationen abspielen zu lassen. 
 
-### Graph Editor
-Mittels des Graph Editors können Animationen über die Zeit genauer einstellen. Hierfür werden die einzelnen Animationen mittels Grafen dargestellt und sind nach Belieben genauer einstellbar. 
+**_Graph Editor._** Mittels des Graph Editors können Animationen über die Zeit genauer einstellen. Hierfür werden die einzelnen Animationen mittels Grafen dargestellt und sind nach Belieben genauer einstellbar. 
 
-### Drivers
-Der Driver Editor ermöglicht es, Animationen gezielt zu steuern. Dabei können die Eigenschaften eines Objektes verwendet werden um ein anderes Objekt zu steuern. 
+**_Drivers._** Der Driver Editor ermöglicht es, Animationen gezielt zu steuern. Dabei können die Eigenschaften eines Objektes verwendet werden um ein anderes Objekt zu steuern. 
 
-### Nonlinear Animation
-Mittels dem Editor für nonlinearee Animationen können Animationen ausserhalb eines linearen Ablaufes gesteuert werden. Dies kommt etwa bei komplexeren Veränderungen von Szenen zum Einsatz.  
+**_Nonlinear Animation._** Mittels dem Editor für nonlinearee Animationen können Animationen ausserhalb eines linearen Ablaufes gesteuert werden. Dies kommt etwa bei komplexeren Veränderungen von Szenen zum Einsatz.  
 
-### Text Editor
-Im Text-Editor können Text-Dokumente eingesehen und erstellt werden. Innerhalb dieser Texte können auch mittels Python Funktionen geschrieben werden. 
+**_Text Editor._** Im Text-Editor können Text-Dokumente eingesehen und erstellt werden. Innerhalb dieser Texte können auch mittels Python Funktionen geschrieben werden. 
 
-### Python Console
-Anhand der Python-Konsole lassen sich Codes in der Programmiersprache von Pyhton eingeben, die Blender anschliessend ausführt.
+**_Python Console._** Anhand der Python-Konsole lassen sich Codes in der Programmiersprache von Pyhton eingeben, die Blender anschliessend ausführt.
 
-### Info 
-Im Info-Editor werden durchgeführte Aktionen in der Python-Programmiersprache nacheinander aufgelistet. Hier lassen sich zudem auch Fehlermeldungen und Warnungen nachträglich noch einsehen. 
+**_Info._** Im Info-Editor werden durchgeführte Aktionen in der Python-Programmiersprache nacheinander aufgelistet. Hier lassen sich zudem auch Fehlermeldungen und Warnungen nachträglich noch einsehen. 
 
-### Outliner
-Im Outliner werden alle Daten, welche sich in einer Blender-Datei befinden aufgelistet. Hier lassen sich Objekte innerhalb einer Szene auch auswählen oder in Collections (Ordnerstrukturen) anordnen und gruppieren.  
+**_Outliner._** Im Outliner werden alle Daten, welche sich in einer Blender-Datei befinden aufgelistet. Hier lassen sich Objekte innerhalb einer Szene auch auswählen oder in Collections (Ordnerstrukturen) anordnen und gruppieren.  
 
-### Porperties
-Im Properties-Pannel lassen sich eine Reihe von Einstellungen machen. Dies umfasst neben Einstellungen zu einem aktuell ausgewählten Objekt auch Einstellungen zum Rendern, zur Szenengestaltung oder zu physikalischen Simulationen. 
+**_Porperties._** Im Properties-Pannel lassen sich eine Reihe von Einstellungen machen. Dies umfasst neben Einstellungen zu einem aktuell ausgewählten Objekt auch Einstellungen zum Rendern, zur Szenengestaltung oder zu physikalischen Simulationen. 
 
-### File Browser
-Mithilfe des File-Browsers lassen sich Dateien auf dem Computer darstellen und suchen. Dadurch können Dokumente gleich direkt in die Szene hineingezogen werden, ohne dass das Programm minimiert werden muss. Zudem können hier auch Dateien abgespeichert werden. 
+**_File Browser._** Mithilfe des File-Browsers lassen sich Dateien auf dem Computer darstellen und suchen. Dadurch können Dokumente gleich direkt in die Szene hineingezogen werden, ohne dass das Programm minimiert werden muss. Zudem können hier auch Dateien abgespeichert werden. 
 
-### Spreadsheet
-Mithilfe des Spreadsheet lassen sich alle Datenpunkte eines Objektes mitsamt deren Position in der 3D Welt angeben. Nebst den punkten können auch die Positionen der verschiedenen Kanten und Flächen von Objekten angezeigt werden. 
+**_Spreadsheet._** Mithilfe des Spreadsheet lassen sich alle Datenpunkte eines Objektes mitsamt deren Position in der 3D Welt angeben. Nebst den punkten können auch die Positionen der verschiedenen Kanten und Flächen von Objekten angezeigt werden. 
 
-### Preferences
-Unter den Preferences lassen sich die Einstellungen von Blender bearbeiten. Die Preferences können auch unter “Edit|Preferences” geöffnet werden. 
+**_Preferences._** Unter den Preferences lassen sich die Einstellungen von Blender bearbeiten. Die Preferences können auch unter “Edit|Preferences” geöffnet werden. 
 
 ## Vorgefertigte Editor-Anordnungen
 In der Menuleiste sind für verschiedene Arbeitsschritte bei der 3D-Modellierung bereits vorgefertigte Ansichtsoptionen verfügbar. Durch einen Klick auf den Reiter «Texture Paint» wird beispielsweise eine Anordnung gezeigt, welche ideal dafür ist um ein Objekt mite einer Textur zu bemalen. Hierfür wird nebst dem 3D Viewport auch der Image Editor geöffnet. Mittels der Reigsterkarte «+» können zudem weitere Editor-Anordnungen basierend auf einer Vorlage für die Schnellauswahl hinzugefügt werden. 
