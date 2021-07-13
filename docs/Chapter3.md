@@ -1,4 +1,4 @@
-_# 3.	Die Arbeitsoberfläche von Blender
+# 3.	Die Arbeitsoberfläche von Blender
 ## Das Willkommensfenster
 Blender begrüsst die Nutzer des Programmes jeweils mit einem Willkommens-Fester. In diesem Fenster werden die letzten geöffneten Projekte unter den «Recent Files» aufgelistet. Mittels dem Menu kann auch ein neues Projekt geöffnet werden unter den «New Files». Dort kann die Art des Projektes genauer definiert werden. Basierend auf der Art des Projektes werden unterschiedliche Ansichts-Vorlagen geladen.
 Zu den möglichen Ansichts-Vorlagen gehören: 
@@ -101,7 +101,7 @@ Versuchen Sie die Fenster-Anordnung entsprechend Abbildung 1 nachzubilden.
 ### Übung 2
 Versuchen Sie die Fenster-Anordnung entsprechend Abbildung 2 nachzubilden. 
 
-##	Die Anleitung für die Lösung der Aufgaben finden Sie hier. 
+##	Die Anleitung für die Lösung der Aufgaben finden Sie [hier](docs/Ex1_Sol.md). 
 
 
 
