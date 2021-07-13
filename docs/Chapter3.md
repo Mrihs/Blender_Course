@@ -1,20 +1,20 @@
-# 3.	Die Arbeitsoberfläche von Blender
+_# 3.	Die Arbeitsoberfläche von Blender
 ## Das Willkommensfenster
 Blender begrüsst die Nutzer des Programmes jeweils mit einem Willkommens-Fester. In diesem Fenster werden die letzten geöffneten Projekte unter den «Recent Files» aufgelistet. Mittels dem Menu kann auch ein neues Projekt geöffnet werden unter den «New Files». Dort kann die Art des Projektes genauer definiert werden. Basierend auf der Art des Projektes werden unterschiedliche Ansichts-Vorlagen geladen.
 Zu den möglichen Ansichts-Vorlagen gehören: 
-•	General: Öffnet eine Standardvorlage für das Bearbeiten von 3D-Objekten
-•	2D Animation: öffnet eine Vorlage zum Erstellen von 2D-Animationen, welche nicht auf 3D-Objekten basieren. 
-•	Sculpting: Öffnet eine Vorlage, welche für das Sculpting von Objekten geeignet ist. Dabei werden Objekte anhand von Bürsten direkt in ihrer Form verändert.  
-•	VFX: öffnet eine Vorlage für die Erstellung visueller Effekte (VFX), beispielsweise in Videos. 
-•	Video Editing: öffnet eine Vorlage zum Bearbeiten von Videos
+* *General*: Öffnet eine Standardvorlage für das Bearbeiten von 3D-Objekten
+* *2D Animation*: öffnet eine Vorlage zum Erstellen von 2D-Animationen, welche nicht auf 3D-Objekten basieren. 
+* *Sculpting*: Öffnet eine Vorlage, welche für das Sculpting von Objekten geeignet ist. Dabei werden Objekte anhand von Bürsten direkt in ihrer Form verändert.  
+* *VFX*: öffnet eine Vorlage für die Erstellung visueller Effekte (VFX), beispielsweise in Videos. 
+* Video Editing: öffnet eine Vorlage zum Bearbeiten von Videos
 Dieser Kurs wird sich auf die 3D-Modellierung fokussieren. Deshalb wird jeweils die Ansichts-Vorlage «General» verwendet. Diese Vorlage ist so generell, dass sie im Hintergrund sogar schon geladen ist, während das Willkommens-Fenster dargestellt wird. Deshalb ist es auch möglich einfach ausserhalb des Willkommens-Fensters zu klicken. Dadurch verschwindet das Fenster und die hintergründige General-Vorlage wird sichtbar. 
 
 ## Die verschiedenen Panels beim General-Projekt
 Die vielen verschiedenen Werkzeuge, welche Blender anbietet, sind in eine Reihe verschiedener Editore unterteilt, die als seperate und austauschbare Pannel-Areale im Programm dargestellt werden. Beim Start eines neuen Projekts (mit der Vorlage General) ist die Ansicht in vier Areale unterteilt: 
-•	3D Viewport: überspannt von der oberen linken Ecke den grössten Teil des Bildschirms
-•	Outliner: Befindet sich in der oberen, rechten Ecke
-•	Properties: Befindet sich in der unteren, rechten Ecke
-•	Timeline: Befindet sich links, am unteren Rand
+•	*3D Viewport*: überspannt von der oberen linken Ecke den grössten Teil des Bildschirms
+•	*Outliner*: Befindet sich in der oberen, rechten Ecke
+•	*Properties*: Befindet sich in der unteren, rechten Ecke
+•	*Timeline*: Befindet sich links, am unteren Rand
 Gerade der 3D Viewport, der Outliner und die Properties sind für das Erstellen von 3D Objekten mit Blender von hoher Bedeutung. 
 
 ## Übersicht über die Editor-Fenster von Blender
@@ -104,3 +104,4 @@ Versuchen Sie die Fenster-Anordnung entsprechend Abbildung 2 nachzubilden.
 ##	Die Anleitung für die Lösung der Aufgaben finden Sie hier. 
 
 
+___
