@@ -14,12 +14,15 @@ Zu den möglichen Ansichts-Vorlagen gehören:
 Dieser Kurs wird sich auf die 3D-Modellierung fokussieren. Deshalb wird jeweils die Ansichts-Vorlage «General» verwendet. Diese Vorlage ist so generell, dass sie im Hintergrund sogar schon geladen ist, während das Willkommens-Fenster dargestellt wird. Deshalb ist es auch möglich einfach ausserhalb des Willkommens-Fensters zu klicken. Dadurch verschwindet das Fenster und die hintergründige General-Vorlage wird sichtbar. 
 
 ## Die verschiedenen Panels beim General-Projekt
-Die vielen verschiedenen Werkzeuge, welche Blender anbietet, sind in eine Reihe verschiedener Editore unterteilt, die als seperate und austauschbare Pannel-Areale im Programm dargestellt werden. Beim Start eines neuen Projekts (mit der Vorlage General) ist die Ansicht in vier Areale unterteilt: 
-•	**3D Viewport**: überspannt von der oberen linken Ecke den grössten Teil des Bildschirms
-•	**Outliner**: Befindet sich in der oberen, rechten Ecke
-•	**Properties**: Befindet sich in der unteren, rechten Ecke
-•	**Timeline**: Befindet sich links, am unteren Rand
+Die vielen verschiedenen Werkzeuge, welche Blender anbietet, sind in eine Reihe verschiedener Editore unterteilt, die als seperate und austauschbare Pannel-Areale im Programm dargestellt werden. Beim Start eines neuen Projekts (mit der Vorlage General) ist die Ansicht in vier Areale unterteilt:
+* **3D Viewport**: überspannt von der oberen linken Ecke den grössten Teil des Bildschirms
+* **Outliner**: Befindet sich in der oberen, rechten Ecke
+* **Properties**: Befindet sich in der unteren, rechten Ecke
+* **Timeline**: Befindet sich links, am unteren Rand
 Gerade der 3D Viewport, der Outliner und die Properties sind für das Erstellen von 3D Objekten mit Blender von hoher Bedeutung. 
+
+    <img src="https://github.com/Mrihs/Blender_Course/blob/31b7728bb643206e29940c0cc020e131934698ec/Images/Default-Arealaufteilung.jpg">
+
 
 ## Übersicht über die Editor-Fenster von Blender
 In jedem Editor-Areal befindet sich in der linken oberen Ecke ein Knopf, mit dem ein Drop-Down—Menu geöffnet werden kann. Darin sind alle möglichen Editoren aufgelistet. Dadurch kann ein anderer Editor für ein Areal ausgewählt werden. 
