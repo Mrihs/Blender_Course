@@ -8,7 +8,7 @@ Zu den möglichen Ansichts-Vorlagen gehören:
 * **VFX**: öffnet eine Vorlage für die Erstellung visueller Effekte (VFX), beispielsweise in Videos. 
 * **Video Editing**: öffnet eine Vorlage zum Bearbeiten von Videos
 
-    <img src="Images/Welcome_Screen.png">
+    <img src="https://github.com/Mrihs/Blender_Course/blob/a4c5d607d8ac066a49415b320692ec025c81af4f/Images/Welcome_Screen.png">
 
 
 Dieser Kurs wird sich auf die 3D-Modellierung fokussieren. Deshalb wird jeweils die Ansichts-Vorlage «General» verwendet. Diese Vorlage ist so generell, dass sie im Hintergrund sogar schon geladen ist, während das Willkommens-Fenster dargestellt wird. Deshalb ist es auch möglich einfach ausserhalb des Willkommens-Fensters zu klicken. Dadurch verschwindet das Fenster und die hintergründige General-Vorlage wird sichtbar. 
