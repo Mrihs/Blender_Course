@@ -3,7 +3,7 @@
 
 _IN PROGRESS_
 
-Drücke die <brd>H</brd> -Taste 
+Drücke die <kbd>H</kbd> -Taste 
 
 ## Was bietet Blender?
 
