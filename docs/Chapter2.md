@@ -1,4 +1,18 @@
-<script src="jquery.sidenotes.min.js"></script>
+@media screen and (min-width: 900px), projection and (min-width: 900px), tv and (min-width: 900px) {
+#container{margin-left:10px}
+.sidenote {
+	float:none;
+	position: absolute;
+	right: 0;
+	width: 200px;
+	border: 1px solid #000;
+	margin: 0;
+	margin-right: -208px;
+}
+}
+@media screen and (min-width: 1070px), projection and (min-width: 1070px), tv and (min-width: 1070px) {
+#container{margin-left:auto}
+}
 
 # 2. Vorbereitung von Blender
 ## Installation von Blender
