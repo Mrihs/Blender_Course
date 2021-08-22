@@ -16,6 +16,7 @@
 
 # 2. Vorbereitung von Blender
 ## Installation von Blender
+<small class="sidenote">Installationsdatei herunterladen</small>
 Um Blender auf einem Rechner zu installieren muss das Installationspaket von Blender auf dessen Website (www.blender.org) unter dem Reiter «Download» heruntergeladen werden. Dort sollte bereits automatisch das Betriebssystem des Rechners erkannt werden und die aktuellste Version angeboten werden. Ansonsten lässt sich mittels eines Drag & Drop-Felds auch die entsprechende Version auswählen. 
 Unter https://download.blender.org/release/ lassen sich auch frühere Versionen von Blender herunterladen. Dieser Kurs ist auf Blender 2.93 ausgerichtet, weshalb der Download dieser Version empfehlenswert ist.
 
