@@ -81,7 +81,7 @@ In der Menuleiste sind für verschiedene Arbeitsschritte bei der 3D-Modellierung
 
 ## Neuanordnen der Editor-Areale
 Die einzelnen Editor-Panels können nicht nur beliebig ausgetauscht werden, sondern auch nach eigenem Belieben vergrössert oder verkleinert werden. In den Abgrenzungsbereichen zwischen des Panels verändert sich der Maus-Cursor. Von dort aus lassen sich die Fenster hin- und her- ziehen um deren Grösse anzupassen.
-In den Ecken der einzelnen Editor-Fenster gibt es zudem die Möglichkeit durch Hinausziehen der Ecke in eine Richtung, das Fenster in zwei Editore aufzuteilen. Wenn dabei gleichzeitig die ƒ Taste gedrückt wird, wird derselbe Editor in einem neuen, einzelnen Fenster geöffnet. Um aneinander gereihte Arbeitsfenster zu schliessend, wird von der Ecke aus ein anderes Fenster in das zu schliessende Fenster hineingezogen. Dies kann allerdings relativ fummelig werden, da die Aktion recht ähnlich zum Öffnen von neuen Fenstern ist. 
+In den Ecken der einzelnen Editor-Fenster gibt es zudem die Möglichkeit durch Hinausziehen der Ecke in eine Richtung, das Fenster in zwei Editore aufzuteilen. Wenn dabei gleichzeitig die <kbd> SHIFT </kbd> Taste gedrückt wird, wird derselbe Editor in einem neuen, einzelnen Fenster geöffnet. Um aneinander gereihte Arbeitsfenster zu schliessend, wird von der Ecke aus ein anderes Fenster in das zu schliessende Fenster hineingezogen. Dies kann allerdings relativ fummelig werden, da die Aktion recht ähnlich zum Öffnen von neuen Fenstern ist. 
 
 
 ## Übung zur Panel-Auswahl
