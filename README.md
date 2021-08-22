@@ -1,6 +1,6 @@
 # Blender_Course
 
-<strong> This </strong> is the repository 
+<strong> This </strong> is the <kbd>repository </kbd>
 
 
 1. this
