@@ -1,4 +1,4 @@
-# 5.	Navigation der Ansicht in der 3D-View
+# 4.	Navigation der Ansicht in der 3D-View
 Die Ansicht auf die Objekte in der 3D-View kann beliebig verändert werden. Nebst der standardmässigen Ansichtssteuerung über die Maus kann auch das Nummernfeld der Tastatur 
 Navigation mittels der Maus
 Je nach Aufbau der verwendeten Computermaus unterscheidet sich die Navigation durch die 3D-View mit der Maus etwas. Bei einer Computermaus mit einem Mausrad erfolgt die Navigation in der 3D-View durch Mausbewegungen bei gedrückter Rad-Taste. Bei Trackpads oder Mäusen mit integriertem Trackbad erfolgt die Navigation mittels Wischbewegungen. Bei einer normalen Bewegung wird dabei lediglich die Ansicht rotiert. Durch gleichzeitiges Drücken der ƒ Taste wird die Ansicht ohne rotation in die entsprechenden Richtungen bewegt. Mittels gedrückter ≈ Taste kann durch die Mausbewegung hinein- oder heraus-gezoomt werden. Durch das Drehen des Computerrads wird die Ansicht ebenfalls hinein- oder heraus-gezoomt. 
