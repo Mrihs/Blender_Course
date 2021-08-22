@@ -2,7 +2,7 @@
 <input type="checkbox" id="sn-extensive-use-of-sidenotes" class="margin-toggle"/>
 
 
-# 3.	Die Arbeitsoberfläche von Blender
+# 2.	Die Arbeitsoberfläche von Blender
 ## Das Willkommensfenster
 <span class="sidenote">This is a sidenote.</span>
 Blender begrüsst die Nutzer des Programmes jeweils mit einem Willkommens-Fester. In diesem Fenster werden die letzten geöffneten Projekte unter den «Recent Files» aufgelistet. Mittels dem Menu kann auch ein neues Projekt geöffnet werden unter den «New Files». Dort kann die Art des Projektes genauer definiert werden. Basierend auf der Art des Projektes werden unterschiedliche Ansichts-Vorlagen geladen.
