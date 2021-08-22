@@ -1,21 +1,6 @@
-@media screen and (min-width: 900px), projection and (min-width: 900px), tv and (min-width: 900px) {
-#container{margin-left:10px}
-.sidenote {
-	float:none;
-	position: absolute;
-	right: 0;
-	width: 200px;
-	border: 1px solid #000;
-	margin: 0;
-	margin-right: -208px;
-}
-}
-@media screen and (min-width: 1070px), projection and (min-width: 1070px), tv and (min-width: 1070px) {
-#container{margin-left:auto}
-}
-
 # 2. Vorbereitung von Blender
 ## Installation von Blender
+^[Installationsdatei herunterladen]
 Um Blender auf einem Rechner zu installieren muss das Installationspaket von Blender auf dessen Website (www.blender.org) unter dem Reiter «Download» heruntergeladen werden. Dort sollte bereits automatisch das Betriebssystem des Rechners erkannt werden und die aktuellste Version angeboten werden. Ansonsten lässt sich mittels eines Drag & Drop-Felds auch die entsprechende Version auswählen. 
 Unter https://download.blender.org/release/ lassen sich auch frühere Versionen von Blender herunterladen. Dieser Kurs ist auf Blender 2.93 ausgerichtet, weshalb der Download dieser Version empfehlenswert ist.
 
