@@ -1,4 +1,4 @@
-# 4.	Die 3D View Oberfläche
+# 3.	Die 3D View Oberfläche
 Die 3D View Oberfläche stellt eine der wichtigsten Arbeitsoberflächen in Blender dar, da in ihr die 3D Objekte, so wie die Szenen, in denen sie integriert werden, angezeigt werden. Auch die Bearbeitung der einzelnen Objekte geschieht in diesem Fenster und lässt sich in diesem Fenster verfolgen.
 
 ## Toolbar
