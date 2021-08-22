@@ -1,5 +1,10 @@
+<label for="sn-extensive-use-of-sidenotes" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-extensive-use-of-sidenotes" class="margin-toggle"/>
+
+
 # 3.	Die Arbeitsoberfläche von Blender
 ## Das Willkommensfenster
+<span class="sidenote">This is a sidenote.</span>
 Blender begrüsst die Nutzer des Programmes jeweils mit einem Willkommens-Fester. In diesem Fenster werden die letzten geöffneten Projekte unter den «Recent Files» aufgelistet. Mittels dem Menu kann auch ein neues Projekt geöffnet werden unter den «New Files». Dort kann die Art des Projektes genauer definiert werden. Basierend auf der Art des Projektes werden unterschiedliche Ansichts-Vorlagen geladen.
 Zu den möglichen Ansichts-Vorlagen gehören: 
 * **General**: Öffnet eine Standardvorlage für das Bearbeiten von 3D-Objekten
@@ -76,7 +81,7 @@ In der Menuleiste sind für verschiedene Arbeitsschritte bei der 3D-Modellierung
 
 ## Neuanordnen der Editor-Areale
 Die einzelnen Editor-Panels können nicht nur beliebig ausgetauscht werden, sondern auch nach eigenem Belieben vergrössert oder verkleinert werden. In den Abgrenzungsbereichen zwischen des Panels verändert sich der Maus-Cursor. Von dort aus lassen sich die Fenster hin- und her- ziehen um deren Grösse anzupassen.
-In den Ecken der einzelnen Editor-Fenster gibt es zudem die Möglichkeit durch Hinausziehen der Ecke in eine Richtung, das Fenster in zwei Editore aufzuteilen. Wenn dabei gleichzeitig die ƒ Taste gedrückt wird, wird derselbe Editor in einem neuen, einzelnen Fenster geöffnet. Um aneinander gereihte Arbeitsfenster zu schliessend, wird von der Ecke aus ein anderes Fenster in das zu schliessende Fenster hineingezogen. Dies kann allerdings relativ fummelig werden, da die Aktion recht ähnlich zum Öffnen von neuen Fenstern ist. 
+In den Ecken der einzelnen Editor-Fenster gibt es zudem die Möglichkeit durch Hinausziehen der Ecke in eine Richtung, das Fenster in zwei Editore aufzuteilen. Wenn dabei gleichzeitig die <kbd> Shift </kbd> Taste gedrückt wird, wird derselbe Editor in einem neuen, einzelnen Fenster geöffnet. Um aneinander gereihte Arbeitsfenster zu schliessend, wird von der Ecke aus ein anderes Fenster in das zu schliessende Fenster hineingezogen. Dies kann allerdings relativ fummelig werden, da die Aktion recht ähnlich zum Öffnen von neuen Fenstern ist. 
 
 
 ## Übung zur Panel-Auswahl
