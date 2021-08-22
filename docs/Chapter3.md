@@ -1,4 +1,21 @@
+.sidenote, .marginnote { 
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 57%;         # best between 50% and 60%
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  vertical-align: baseline;
+  position: relative;
+  }
+
 # 3.	Die 3D View Oberfläche
+
+<div class="marginnote"> Sidenote with CSS? </div>
+
+
 Die 3D View Oberfläche stellt eine der wichtigsten Arbeitsoberflächen in Blender dar, da in ihr die 3D Objekte, so wie die Szenen, in denen sie integriert werden, angezeigt werden. Auch die Bearbeitung der einzelnen Objekte geschieht in diesem Fenster und lässt sich in diesem Fenster verfolgen.
 
 ## Toolbar
